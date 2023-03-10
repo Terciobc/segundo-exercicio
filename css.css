@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(68, 68, 214);
+    font: arial pt 15px;
+    text-align: center;
+}
+
+header {
+    color: white;
+
+}
+#pesquisa{
+    margin-top: 5px;
+    padding-top: 10px;
+    width: 250px;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+    
+section{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.527);
+
+}
+
+footer {
+    color: white;
+    font-style: italic 10px;
+}
